@@ -21,6 +21,10 @@ This snap is maintained by me, and is not affiliated with the upstream project i
 ```bash
 $ sudo snap install rainfrog
 ```
+
+### Note
+you will need to have a nerd font installed and used by your terminal for the icons to show up.
+
 ## Config file path
 
 The config directory is different in snap rainfrog.
