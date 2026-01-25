@@ -37,6 +37,8 @@ data_row_spacer = false
 ...
 ```
 
+[Config File Example](https://github.com/achristmascarl/rainfrog/blob/main/.config/rainfrog_config.toml)
+
 ## Log file path
 
 The config directory is different in snap rainfrog.
