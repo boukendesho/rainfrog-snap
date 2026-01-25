@@ -27,12 +27,6 @@ The config directory is different in snap rainfrog.
 
 `/home/$USER/snap/rainfrog/common/`
 
-## Log file path
-
-The config directory is different in snap rainfrog.
-
-`/home/$USER/snap/rainfrog/current/.local/share/rainfrog/rainfrog.log`
-
 Example:
 ```bash
 $ cat /home/$USER/snap/rainfrog/common/rainfrog_config.toml
@@ -42,6 +36,12 @@ data_compact_columns = true
 data_row_spacer = false
 ...
 ```
+
+## Log file path
+
+The config directory is different in snap rainfrog.
+
+`/home/$USER/snap/rainfrog/current/.local/share/rainfrog/rainfrog.log`
 
 ## Doc
 
