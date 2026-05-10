@@ -2,7 +2,7 @@
 [![rainfrog](https://snapcraft.io/rainfrog/badge.svg)](https://snapcraft.io/rainfrog)
 
 ## Upstream
-[![rainfrog](https://img.shields.io/github/v/release/achristmascarl/rainfrog?logo=github)](https://github.com/rainfrog/rainfrog)
+[![rainfrog](https://img.shields.io/github/v/release/achristmascarl/rainfrog?logo=github)](https://github.com/achristmascarl/rainfrog)
 
 rainfrog is a database tool for the terminal.
   
