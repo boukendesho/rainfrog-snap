@@ -1,6 +1,6 @@
 name: rainfrog
 base: core24
-version: 'v0.4.2'
+version: 'v0.4.3'
 license: MIT
 summary: Unofficial rainfrog cli app
 description: |
